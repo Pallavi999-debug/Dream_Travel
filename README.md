@@ -6,8 +6,8 @@
 This project was built using below technologies.
 
 1. React.js
-2. HTML
-3. CSS
+2. HTML5
+3. CSS3
 4. VsCode
 
 # **How to get started?**
