@@ -28,3 +28,6 @@ You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
+**If you like my project please give me a star.**
+
+**Thank you for checking my project!!!**
