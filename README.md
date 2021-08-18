@@ -29,8 +29,8 @@ You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
+**Thank you for checking my project!!!**
+
 ### Show your support
 
 **Give a ⭐ if you like this website!**
-
-**Thank you for checking my project!!!**
