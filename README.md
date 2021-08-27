@@ -17,6 +17,7 @@ This project was built using below technologies.
 2. HTML5
 3. CSS3
 4. VsCode
+5. Heroku
 
 # How to get started?
 
