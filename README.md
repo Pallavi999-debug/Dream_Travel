@@ -1,6 +1,13 @@
-# Dream Travel
+<h2 align="center">
+  Dream Travel Website <br/>
+  <a href="https://dreamtra.herokuapp.com/" target="">Dream_Travel</a>
+</h2>
 
-![dream travel](https://user-images.githubusercontent.com/79240706/129153524-6dfd91b4-1c28-468f-9e71-b19ef3a9698c.PNG)
+<div align="center">
+  
+ <img alt="Demo" src="./public/images/dream_travel.PNG" />
+
+</div>
 
 # Built With
 
